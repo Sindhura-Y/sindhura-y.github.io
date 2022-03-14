@@ -1,6 +1,4 @@
-
-
-# Portfolio of work - Sindhura Yalamanchili
+# Sindhura Yalamanchili
 
 **```ISMs i resonate with the most```**
 
