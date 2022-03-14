@@ -1,9 +1,3 @@
-# Career Progression Assessment Portfolio - Sindhura Yalamanchili
-
-**```About me```**
-
----
-
 **```ISMs i resonate with the most```**
 
 
