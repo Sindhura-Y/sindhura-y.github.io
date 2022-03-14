@@ -1,5 +1,3 @@
-# <p>Career Progression Assessment Portfolio - Sindhura Yalamanchili</p>
-
 **```About me```**
 
 ---
