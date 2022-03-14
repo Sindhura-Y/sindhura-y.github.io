@@ -1,16 +1,22 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Software Developer at Rocket Innovation Studio
 ---
 
 My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+- I am a software developer at RIS
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Joined Quicken Loans as an intern in October 2018 as a Software Developer Intern on Team LiftOff.
+
+
+## Transition to Rocket Mortgage Servicing
+
+Interviewed for a Software Developer(now Associate Software Engineer) positin in Servicing and joined Rocket Mortgage Servicing in February 2019.
+
+## Rocket Innovation Studio
+
+Moved to Rocket Innovation Studio in October 2020.
