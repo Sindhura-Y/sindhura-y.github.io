@@ -44,9 +44,9 @@ Currently being mentored by Jeffrey Pryciak on Architecting new systems and solv
       -  Trained engineers on connecting to an AWS database using SSH since this is the first database RMS owned.
       - <p align="left">
             <a>
-                <img src="./screenshots/surveywidget.png" style="width:400px;"/>
+            <img src="{{ 'assets/img/surveywidget.png' | relative_url }}" alt="Not found" />
             </a>
-        </p>
+        </p>     
   
     - Business Outcomes:
       - Provided an increased quality of lead, closed loan volume and improve our retention Rate. Business estimated this will result in 225 Million in closed loan volume per yearly and the quality of the leads generated close at 78% or better.
@@ -69,7 +69,7 @@ Currently being mentored by Jeffrey Pryciak on Architecting new systems and solv
       - Made respective changes to Quget packages and services owned by RMS.
         - <p align="left">
             <a>
-                <img src="./screenshots/amaze_cacheutilityfix.png" style="width:400px;"/>
+            <img src="{{ 'assets/img/amaze_cacheutilityfix.png' | relative_url }}" alt="Not found" />
             </a>
         </p>
 
@@ -146,7 +146,7 @@ Currently being mentored by Jeffrey Pryciak on Architecting new systems and solv
     -  Collaborated with Train SRE to re-write the proxy to reduce the complexity of integrating with multiple back-end services. 
     - <p align="left">
         <a>
-            <img src="./screenshots/amaze_proxy.png" style="width:400px;"/>
+        <img src="{{ 'assets/img/amaze_proxy.png' | relative_url }}" alt="Not found" />
         </a>
         </p>
   
@@ -168,7 +168,7 @@ Currently being mentored by Jeffrey Pryciak on Architecting new systems and solv
       - Created a landing page for calculators.
       - <p align="left">
         <a>
-        <img src="./screenshots/amaze_mfeweb.png" style="width:400px;"/>
+        <img src="{{ 'assets/img/amaze_mfeweb.png' | relative_url }}" alt="Not found" />
         </a>
       </p>
   
@@ -177,7 +177,7 @@ Currently being mentored by Jeffrey Pryciak on Architecting new systems and solv
 
       - <p align="left">
             <a>
-                <img src="./screenshots/refinancecalculator.png" style="width:400px;"/>
+            <img src="{{ 'assets/img/refinancecalculator.png' | relative_url }}" alt="Not found" />
             </a>
         </p>
 
@@ -211,7 +211,7 @@ Currently being mentored by Jeffrey Pryciak on Architecting new systems and solv
       - Created banners to inject into RMS UI through adobe target to notify clients about maintenance, natural disaster support and loan acquisition details. 
       - <p align="left">
             <a>
-            <img src="./screenshots/amaze_adobebanner.png" style="width:400px;"/>
+            <img src="{{ 'assets/img/amaze_adobebanner.png' | relative_url }}" alt="Not found" />
             </a>
         </p>
 
@@ -297,7 +297,7 @@ Currently being mentored by Jeffrey Pryciak on Architecting new systems and solv
 - Collaborated with Database Engineers from Servicing and RMO to backfill the new database with the data from Midware.
 - <p align="left">
     <a>
-    <img src="./screenshots/amaze_lcss2.png" style="width:400px;"/>
+    <img src="{{ 'assets/img/amaze_lcss2.png' | relative_url }}" alt="Not found" />
     </a>
   </p>
 
@@ -305,7 +305,7 @@ Currently being mentored by Jeffrey Pryciak on Architecting new systems and solv
       - Eliminate the risk in a single point of failure between RMO and RMS for servicing related client information. 
       - <p align="left">
             <a>
-            <img src="./screenshots/loanclientsettingsservice.png" style="width:400px;"/>
+            <img src="{{ 'assets/img/loanclientsettingsservice.png' | relative_url }}" alt="Not found" />
             </a>
         </p>
 
@@ -428,7 +428,7 @@ Currently being mentored by Jeffrey Pryciak on Architecting new systems and solv
 - Collaborated with Database team to backfill the database, troubleshoot and fix the issues after GoLive.
 - <p align="left">
     <a>
-        <img src="./screenshots/amaze_dlscovid.png" style="width:400px;"/>
+    <img src="{{ 'assets/img/amaze_dlscovid.png' | relative_url }}" alt="Not found" />
     </a>
     </p>
   
@@ -460,7 +460,7 @@ The root certificate authority expired and caused a widespread outage across Roc
 
 <p align="left">
     <a>
-        <img src="./screenshots/amaze_sev1.png" style="width:400px;"/>
+    <img src="{{ 'assets/img/amaze_sev1.png' | relative_url }}" alt="Not found" />
     </a>
 </p>
 
@@ -511,7 +511,7 @@ Assist various OnCall engineers debug OnCall issues
 
 <p align="left">
     <a>
-        <img src="./screenshots/amaze_oncall.png" style="width:400px;"/>
+    <img src="{{ 'assets/img/amaze_oncall.png' | relative_url }}" alt="Not found" />
     </a>
 </p>
 
