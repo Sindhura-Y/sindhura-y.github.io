@@ -1,3 +1,5 @@
+# Career Progression Assessment Portfolio - Sindhura Yalamanchili
+
 **```About me```**
 
 ---
@@ -13,7 +15,7 @@ Currently being mentored by Jeffrey Pryciak on Architecting new systems and solv
 
 ---
 
-## <p>Project 1 - Rocket Mortgage Servicing API</p>
+## Project 1 - Rocket Mortgage Servicing API
 
 
 <br/>
